@@ -1,0 +1,5 @@
+my solutions for Advent of Code 2018 (https://adventofcode.com/2018/)
+
+- place the day's input in a text file named 'input' in the appropriate directory
+- run the solution with
+    gcc solution.c -o solution && ./solution
